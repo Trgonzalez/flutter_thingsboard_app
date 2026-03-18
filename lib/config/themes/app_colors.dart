@@ -4,9 +4,9 @@ class AppColors {
   AppColors._();
   
   // Primary Brand Colors (CE Blue Theme)
-  static const primaryBlue = Color(0xFF305680);
-  static const secondaryBlue = Color(0xFF527dad);
-  static const darkPrimaryBlue = Color(0xFF9fa8da);
+  static const primaryBlue = Color(0xFF03363D);
+  static const secondaryBlue = Color(0xFF75925C);
+  static const darkPrimaryBlue = Color(0xFF055060);
   
   // Surface Colors
   static const white = Color(0xFFFFFFFF);
