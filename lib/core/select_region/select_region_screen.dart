@@ -18,7 +18,7 @@ class SelectRegionScreen extends TbContextStatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            SvgPicture.asset(ThingsboardImage.thingsboardBigLogo),
+            SvgPicture.asset(ThingsboardImage.nexorLogo),
             const SizedBox(height: 166),
             Expanded(
               child: Padding(

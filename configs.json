@@ -1,0 +1,9 @@
+{
+  "thingsboardApiEndpoint": "https://app.nexoragro.com",
+  "appLinksUrlHost": "app.nexoragro.com",
+  "appLinksUrlScheme": "https",
+  "androidApplicationId": "com.nexoragro.app",
+  "androidApplicationName": "Nexor Agro",
+  "thingsboardOAuth2CallbackUrlScheme": "com.nexoragro.app.auth",
+  "thingsboardAndroidAppSecret": "dTJXazFDbkN2eGJudVNSa3hrME1TbkRKQ3NGdklKRmJUd2tTSDN4c0ZZSXZjdGs4a2RMVjRHVUFTSVFSUDkybQ=="
+}

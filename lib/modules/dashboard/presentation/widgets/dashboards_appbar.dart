@@ -31,12 +31,8 @@ class DashboardsAppbar extends StatelessWidget {
           child: SizedBox(
             height: 24,
             child: SvgPicture.asset(
-              ThingsboardImage.thingsBoardWithTitle,
-              colorFilter: ColorFilter.mode(
-                Theme.of(context).primaryColor,
-                BlendMode.srcIn,
-              ),
-              semanticsLabel: 'ThingsBoard Logo',
+              ThingsboardImage.nexorLogo,
+              semanticsLabel: 'Nexor Agro Logo',
             ),
           ),
         ),

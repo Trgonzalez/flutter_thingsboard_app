@@ -20,6 +20,8 @@ abstract class ThingsboardImage {
       'assets/images/mobile-connection-error.svg';
 static const twoFaSetup = 'assets/images/2FA_setup.svg';
 static const twoFaConfigured = 'assets/images/2FA_configured.svg';
+  static const nexorLogo = 'assets/images/nexor_logo.svg';
+  static const nexorLogoWhite = 'assets/images/nexor_logo_white.svg';
   static final oauth2Logos = <String, String>{
     'google-logo': 'assets/images/google-logo.svg',
     'github-logo': 'assets/images/github-logo.svg',
